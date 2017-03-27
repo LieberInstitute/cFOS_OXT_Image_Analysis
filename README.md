@@ -2,7 +2,7 @@
 This GitHub repository provides the scripts to processing and analysis scripts for OXT/cFOS/DAPI-stained immunofluorescent image stacks acquired from Zeis LSM700 confocal microscope. Data from this analysis is published by **Maynard *et al.*, in prep**, *insert link to publication*. 
 
 ## Processing 
-Primary processing and data extraction is done using a custom MATLAB script **cellSegCFOS.m**. This custom function was ran with MATLAB 2016b and requires the [*CellSegM* Matlab toolbox] (https://github.com/ehodneland/cellsegm). 
+Primary processing and data extraction is done using a custom MATLAB script **cellSegCFOS.m**. This custom function was ran with MATLAB 2016b and requires the *CellSegM* Matlab toolbox (https://github.com/ehodneland/cellsegm). 
 
 Batch execution and summarization of extracted data into the R environment requires running the R script **preprocess_cFOS_v2.R** on an SGE compute cluster. Processed data files can be requested from the authors.
 

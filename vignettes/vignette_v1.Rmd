@@ -1,1 +1,9 @@
+---
+title: "Analysis of cFOS and OXT microscopy imaging of the PVN and CA3"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Analysis of cFOS and OXT microscopy imaging of the PVN and CA3}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
 
